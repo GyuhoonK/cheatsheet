@@ -5,13 +5,13 @@
 
 ## Linux
 
-### Server
+### [Server](https://github.com/GyuhoonK/cheatsheet/blob/main/linux/server.md)
 
 `ssh`(**S**ecure **SH**ell)
 
 `scp`(**S**ecure **C**o**P**y, 서버 간 파일 전송)
 
-### Process
+### [Process](https://github.com/GyuhoonK/cheatsheet/blob/main/linux/process.md)
 
 `nohup`(**N**o **H**aing **UP**)
 
@@ -23,22 +23,34 @@
 
 `ps -ef | awk`
 
-### util
+### [util](https://github.com/GyuhoonK/cheatsheet/blob/main/linux/util.md)
 
 파일 개수 확인 (`ls -l | grep ^- | wc -l`)
 
 sybolic link(`ln -s`)
 
-### Script
+### [Script](https://github.com/GyuhoonK/cheatsheet/blob/main/linux/script.md)
 
-Shell Path
+Shell Path 
 
 # Python
 
-### 가상환경
+### [가상환경](https://github.com/GyuhoonK/cheatsheet/blob/main/python/venv.md)
 
 venv/virtualenv
 
-### Sciprt
+### [Sciprt](https://github.com/GyuhoonK/cheatsheet/blob/main/python/script.md)
 
-### args 
+file path (`os`)
+
+### [args](https://github.com/GyuhoonK/cheatsheet/blob/main/python/args.md) 
+
+`argparse` / `sys.argv`
+
+## Hadoop
+
+HDFS(hdfs dfs)
+
+spark(spark-submit)
+
+hive(hive)
