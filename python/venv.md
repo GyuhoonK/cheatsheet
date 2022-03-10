@@ -32,3 +32,10 @@ gyuhoonkim@GyuhooncBookAir % ls
 test1 
 test1.tar.gz
 ```
+
+```bash
+# lib 설치 및 압축
+pip install -t <dir name> -r <requirements>
+pip install -t dependencies -r requirements.txt
+zip -r9 ../dependencies.zip 
+```
