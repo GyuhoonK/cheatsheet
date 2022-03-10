@@ -35,6 +35,7 @@ test1.tar.gz
 
 ```bash
 # lib 설치 및 압축
+pip freeze # 설치 라이브러리 확인
 pip install -t <dir name> -r <requirements>
 pip install -t dependencies -r requirements.txt
 zip -r9 ../dependencies.zip 
