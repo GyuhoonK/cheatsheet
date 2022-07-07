@@ -16,3 +16,8 @@ scp -r data gyuhoonk@server_ip:/home/gyuhoonk # 디렉토리 전송
 scp gyuhoonk@server_ip:/home/gyuhoonk ~/Downloads # 파일 전송
 scp -r gyuhoonk@server_ip:/home/gyuhoonk/data ~/Downloads # 디렉토리 전송
 ```
+
+rsync(**R**emote **SYNC**)
+
+
+setcap/getcap (capabilities)
