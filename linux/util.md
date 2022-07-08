@@ -18,3 +18,8 @@ $ df -h # print sizes in human readable format (defulat : GB)
 ```
 
 파이프라인 사용 시 변수 지정(`xargs`) 
+
+압축풀기
+```bash
+tar -xzvf apache-tomcat-8.5.65.tar.gz -C /usr/local/apache-tomcat-8.5.65
+```
